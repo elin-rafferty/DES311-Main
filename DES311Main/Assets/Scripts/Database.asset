@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a4d142bc42c6db489270eb7435a1a13, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Nirgiri
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 2}
+    <Prefab>k__BackingField: {fileID: 5877610739824676699, guid: 1961933b0631e254085fa0e143870f96, type: 3}
+  - <Name>k__BackingField: Rice Bowl
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 7341166261428007767, guid: 8da9532691dfb7a4baa838e2895fd126, type: 3}
+  - <Name>k__BackingField: Sushi
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 6731956935395220609, guid: 8ca7631d70813814abc1b03575f9fd65, type: 3}
+  - <Name>k__BackingField: Sushi 3
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 5882032700846230236, guid: bb648ac02684c5a45b04cf77c15db6b9, type: 3}
